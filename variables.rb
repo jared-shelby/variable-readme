@@ -13,3 +13,8 @@ puts example
 
 puts "variables are any previously undefined word that"
 puts "starts with a lowercase letter."
+
+# This is a comment in Ruby
+print 1+1, "\n"
+# print will print on same line; puts will add newline
+# can use commas to apply the same method to different objects
